@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Astrology]]></title>
+        <description><![CDATA[Astrology]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 03:36:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Signs of the Zodiac]]></title>
+            <description><![CDATA[<article><h1>The Signs of the Zodiac</h1><p>Aries</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19d0551c-41c8-402c-bf60-259ec1202d97.jpg"></article>]]></description>
+            <link>undefinedthe-signs-of-the-zodiac/index.html</link>
+            <guid isPermaLink="false">8d8e7c6d-99b8-4a84-af5e-710805521b26</guid>
+            <pubDate>Wed, 20 Jan 2016 03:35:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
